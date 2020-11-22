@@ -35,6 +35,7 @@ Skills
 * Languages
   * German - native
   * English - business fluent
+  * Spanish - Hablo un poco de español
 
 * Software
   * Programming Languages
