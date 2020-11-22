@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Will be filled one day."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

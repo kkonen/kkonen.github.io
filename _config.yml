@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "You found me!"
+title                    : "Hello!"
 title_separator          : "-"
 name                     : &name "Kai Konen"
 description              : &description "M.Sc. in Intelligent Systems - Research Scientist at the University of Bielefeld"
