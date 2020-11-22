@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Cognitive Informatics, University of Bielefeld, 2015
+* B.S. in Cognitive Informatics, University of Bielefeld, 2016
 * M.S. in Intelligent Systems, University of Bielefeld, 2020
 
 Work experience
 ======
-* June 2016: Student assistant (SHK)
-  * University of Bielefeld
-  * Integration of camera-based tracking within the Cognitive Service Robotics Apartment project. (C++, Java)
+* June 2016: Student assistant (SHK) at the University of Bielefeld
+  * Integration of camera-based person-tracking within the Cognitive Service Robotics Apartment project. (C++, Java)
 
-* November 2017: Research assistant (WHB)
-  * University of Bielefeld
+* November 2017: Research assistant (WHB) at the University of Bielefeld
   * Supervision of students during the RoboCup seminar
   * Development of machine learning applications and robotic-systems. (C++, Python, Java, Javascript, MySQL, Jenkins)
 
-* December 2018: Student employee (Software Developer)
-  * Margin UG
-  * Fullstack Development with a focus on financial technology (C++, Python, Jenkins, Docker)
+* December 2018: Student employee (Software Developer) at Margin UG
+  * Fullstack Development with a focus on financial technology (C++, Python, Jenkins, Docker, REST, WebSocket)
   
-* April 2020: Research Scientist
-  * University of Bielefeld
+* April 2020: Research Scientist at the University of Bielefeld
   * Development and training of machine learning applications. (Python, C++)
   * Development of robotic-systems. (C++, Python, Jenkins)
 
@@ -43,8 +39,8 @@ Skills
 * Software
   * Programming Languages
     * Python, C++, Java, Javascript, PHP
-  * Software-frameworks and -libraries
-    * Keras, TensorFlow, CUDA, cuDNN, Docker, Jupyter, NumPy, MySQL, MongoDB, Jenkins, Boost, NodeJS, OpenCV
+  * Software-frameworks, -libraries, -protocols, yada, yada, yada
+    * Keras, TensorFlow, CUDA, cuDNN, Docker, Jupyter, NumPy, MySQL, MongoDB, Jenkins, Boost, NodeJS, OpenCV, REST, WebSocket
 
 
 Publications
