@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2019-01-01-Biologically-Inspired-Deep-Reinforcement-Learning-of-Modular-Control-for-a-Six-Legged-Robot
 date: 2019-01-01
 venue: '2019 IEEE International Conference on Robotics and Automation Workshop on Learning Legged Locomotion Workshop, (ICRA) 2019, Montreal, CA, May 20-25, 2019'
-paperurl: 'https://nbn-resolving.org/urn:nbn:de:0070-pub-29375174, https://pub.uni-bielefeld.de/record/2937517'
-citation: ' Kai Konen,  Timo Korthals,  Andrew Melnik,  Malte Schilling, &quot;Biologically-Inspired Deep Reinforcement Learning of Modular Control for a Six-Legged Robot.&quot; 2019 IEEE International Conference on Robotics and Automation Workshop on Learning Legged Locomotion Workshop, (ICRA) 2019, Montreal, CA, May 20-25, 2019, 2019.'
+paperurl: 'https://pub.uni-bielefeld.de/record/2937517'
 ---
-[Access paper here](https://nbn-resolving.org/urn:nbn:de:0070-pub-29375174, https://pub.uni-bielefeld.de/record/2937517){:target="_blank"}
+[Access paper here](https://pub.uni-bielefeld.de/record/2937517){:target="_blank"}
