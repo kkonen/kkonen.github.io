@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "expecting everything and still surprised."
+title: "Will be filled one day."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
